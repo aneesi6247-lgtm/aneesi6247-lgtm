@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Anees ur Rehman 👋
+# Hi, I'm Muhammad Anees ur Rehman
 
 AI/ML Engineer focused on **LLM systems, multi-sensor perception, and embedded AI for autonomous vehicles**. Currently an M.Sc. student in International Automotive Engineering at Technische Hochschule Ingolstadt (THI), Germany.
 
