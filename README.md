@@ -4,7 +4,6 @@ AI/ML Engineer focused on **LLM systems, multi-sensor perception, and embedded A
 
 I build things at the intersection of large language models and real-time perception — from fine-tuning LLaMA2 with LoRA for an automotive driver-monitoring agent, to fusing LiDAR and camera data for 3D object detection on NVIDIA Jetson, to multi-agent LLM frameworks for everyday automation.
 
-🔭 **Currently working on:** LLM-based agents for driver state monitoring (AIMotion Bavaria)
 🌱 **Learning:** Edge deployment optimization, retrieval-augmented generation at scale
 📫 **Reach me:** aneesi6247@gmail.com | [LinkedIn](https://www.linkedin.com/in/anees6247/)
 
